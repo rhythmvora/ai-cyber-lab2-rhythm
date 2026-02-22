@@ -1,0 +1,26 @@
+{
+    "dataset_info": {
+        "total_samples": 235795,
+        "num_features": 55,
+        "target_variable": "label"
+    },
+    "class_distribution": {
+        "legitimate_count": 100945,
+        "phishing_count": 134850,
+        "legitimate_percent": 42.810492164804174,
+        "phishing_percent": 57.189507835195826,
+        "balance_ratio": 0.7485724879495737
+    },
+    "data_quality": {
+        "missing_values": 0,
+        "duplicate_rows": 0,
+        "complete": true
+    },
+    "top_correlated_features": {
+        "URLSimilarityIndex": 0.8603580349950561,
+        "HasSocialNet": 0.7842545048611174,
+        "HasCopyrightInfo": 0.7433575121575826,
+        "HasDescription": 0.6902317838721201,
+        "IsHTTPS": 0.6091318990621681
+    }
+}
