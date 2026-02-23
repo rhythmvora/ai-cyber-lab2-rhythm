@@ -5,10 +5,10 @@
         "target_variable": "label"
     },
     "class_distribution": {
-        "legitimate_count": 100945,
-        "phishing_count": 134850,
-        "legitimate_percent": 42.810492164804174,
-        "phishing_percent": 57.189507835195826,
+        "legitimate_count": 134850,
+        "phishing_count": 100945,
+        "legitimate_percent": 57.189507835195826,
+        "phishing_percent": 42.810492164804174,
         "balance_ratio": 0.7485724879495737
     },
     "data_quality": {
